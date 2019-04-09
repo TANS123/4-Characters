@@ -1,0 +1,90 @@
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    border: double 20px;
+    text-align: center;
+}  
+.img {
+     background-size: 300px 100px;
+     width: 650px;
+     border: solid darkblue 5px;
+}
+.twoimg {
+    width:650px;
+    border: dashed darkred 10px;
+}
+.thrimg {
+    width:650px;
+    height: 600px;
+    border: dotted skyblue 10px;
+}
+.forimg {
+    border: 15px groove purple; 
+} 
+.fivimg {
+    width:500px;
+    padding:110px;
+}
+.siximg {
+    height: 650px;
+    border: ridge green 10px;
+}
+.sevimg {
+    height: 650px;
+    border: blue dashed 10px;
+}
+.ateimg {
+    height: 650px;
+    border: pink groove 10px;
+}
+.nineimg {
+    height: 650px;
+    border: solid yellow 10px;
+}
+input {
+    text-align: center;
+    border: solid white 3px;
+    height: 20px;
+    width: 200px;
+    font-family: 'Changa', sans-serif;
+    font-size: 13px;
+}
+.Submit {
+    color: white;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: black;
+    border: black 30px;
+    font-family: 'Dokdo', cursive;
+    font-size: 15px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    text-decoration: underline overline wavy;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 34px;
+    text-decoration: underline;
+}
+h3 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h4 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 28px;
+    text-decoration: underline;
+}
+h5 {
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.msg {
+    font-family: 'Special Elite', cursive;
+    font-size: 25px;
+}
